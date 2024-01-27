@@ -1,31 +1,31 @@
 # Table of Contents
 
 1. Introduction
-2. Exploratory Data Analysis
-    2.1. Sale Price
-    2.2. Numerical Features
-    2.3. Categorical Features
-    2.4. Correlations
-    2.5. Missing Values
-3. Data Preprocessing and Feature Engineering
-    3.1. Missing Values
-    3.2. Outliers
-    3.3. Feature Engineering
-        3.3.1. Create New variables
-        3.3.2. Label Encoding
-        3.3.3. Transform Numerical Variables to Categorical Variables
-    3.4. Skewness and Normalizing Variables
-    3.5. Feature Scaling
-    3.6. One-hot Encoding
-4. Modeling
-    4.1. Regularized Regressions
-    4.1.1. Ridge Regression
-    4.1.2. Lasso Regression
-    4.2. XGBoost
-    4.3. LightGBM
-    4.4. Averaging model
-5. Conclusion
-6. Reference
+2. Exploratory Data Analysis<br>
+    2.1. Sale Price<br>
+    2.2. Numerical Features<br>
+    2.3. Categorical Features<br>
+    2.4. Correlations<br>
+    2.5. Missing Values<br>
+3. Data Preprocessing and Feature Engineering<br>
+    3.1. Missing Values<br>
+    3.2. Outliers<br>
+    3.3. Feature Engineering<br>
+        3.3.1. Create New variables<br>
+        3.3.2. Label Encoding<br>
+        3.3.3. Transform Numerical Variables to Categorical Variables<br>
+    3.4. Skewness and Normalizing Variables<br>
+    3.5. Feature Scaling<br>
+    3.6. One-hot Encoding<br>
+4. Modeling<br>
+    4.1. Regularized Regressions<br>
+    4.1.1. Ridge Regression<br>
+    4.1.2. Lasso Regression<br>
+    4.2. XGBoost<br>
+    4.3. LightGBM<br>
+    4.4. Averaging model<br>
+5. Conclusion<br>
+6. Reference<br>
 
 
 1. Introduction¶
