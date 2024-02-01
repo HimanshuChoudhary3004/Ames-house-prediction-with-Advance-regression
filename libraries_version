@@ -1,4 +1,4 @@
--e git+https://github.com/HimanshuChoudhary3004/Ames-house-price-prediction-with-Advance-regression.git@7f9f5bebac42d0c51d96e24ac8ad2fc28b3101d4#egg=Ames_House_Price_Prediction
+-e git+https://github.com/HimanshuChoudhary3004/Ames-house-price-prediction-with-Advance-regression.git@2d33182fbf2365c872b7b6ba5fb3c005006a229d#egg=Ames_House_Price_Prediction
 asttokens==2.4.1
 colorama==0.4.6
 comm==0.2.1
@@ -44,3 +44,4 @@ tornado==6.4
 traitlets==5.14.1
 tzdata==2023.4
 wcwidth==0.2.13
+xgboost==2.0.3
